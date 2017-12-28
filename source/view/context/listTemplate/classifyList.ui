@@ -1,0 +1,26 @@
+{
+	"RootView":{
+		"width":"750",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"x":"20",
+				"width":"500",
+				"fontSize":"34",
+				"id":"do_Label_classifyName",
+				"text":"默认分类",
+				"type":"do_Label",
+				"height":"100"
+			},
+			{
+				"bgColor":"C0C0C0FF",
+				"width":"750",
+				"y":"99",
+				"id":"do_ALayout_line",
+				"type":"do_ALayout",
+				"height":"1"
+			}
+		],
+		"height":"100"
+	}
+}
